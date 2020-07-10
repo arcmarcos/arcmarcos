@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align= right src="https://github.com/arcmarcos/arcmarcos/blob/master/arcmarcos.png?raw=true" >
 
-<!--
-**arcmarcos/arcmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# arcmarcos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Hi there! :wave: :wave:
+
+- I'm **Marcos Antonio** → :man:
+- From **Rio de Janeiro, Brazil** → :earth_americas:
+- **Beginner** in development world →  :notebook: :construction: :computer:
+
+
+## Loves
+
+- Music ⠀⠀⠀:guitar:
+- Astronomy ⠀ :telescope: :star2:
+- Sports⠀⠀⠀ :basketball: :soccer:
+-  Old-school games ⠀:video_game:
