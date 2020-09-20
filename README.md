@@ -1,19 +1,20 @@
-<img align= right src="https://github.com/arcmarcos/arcmarcos/blob/master/arcmarcos.png?raw=true" >
+# Hi there :wave: :wave:
 
-
-# arcmarcos
-
-
-### Hi there! :wave: :wave:
-
-- I'm **Marcos Antonio** → :man:
+- My name is **Marcos** → :man:
 - From **Rio de Janeiro, Brazil** → :earth_americas:
 - **Beginner** in development world →  :notebook: :construction: :computer:
 
-
-## Loves
+## Loves :heart:
 
 - Music ⠀⠀⠀:guitar:
 - Astronomy ⠀ :telescope: :star2:
 - Sports⠀⠀⠀ :basketball: :soccer:
 -  Old-school games ⠀:video_game:
+
+
+## About me
+
+#### (PT-br) Aluno do curso Full Stack da Recode
+Você pode saber mais sobre, nesse [repositório](https://github.com/arcmarcos/RecodePro2020).
+<br>
+Veja também esse [repositório](https://github.com/arcmarcos/OneSiteDay). Onde tento fazer um site (ou elementos de um) quase todo dia.
