@@ -14,7 +14,11 @@
 
 ## About me
 
-#### (PT-br) Aluno do curso Full Stack da Recode
+#### PT-br → Aluno do curso Full Stack da Recode
 Você pode saber mais sobre, nesse [repositório](https://github.com/arcmarcos/RecodePro2020).
-<br>
+
 Veja também esse [repositório](https://github.com/arcmarcos/OneSiteDay). Onde tento fazer um site (ou elementos de um) quase todo dia.
+
+---
+
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/08marcos/) [![Gmail](https://img.shields.io/badge/-my_email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos-rj@outlook.com)
