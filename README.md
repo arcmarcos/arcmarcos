@@ -1,8 +1,9 @@
+<div align="center">
+
 ![cover](github_README.png)
 
 ---
 <br>
-<div align="center">
 
 ## Hi there :wave: :wave:
 
