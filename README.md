@@ -1,14 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcmarcos&layout=compact&theme=blueberry">
 
 ### Hi there :wave: :wave:
+I'm a full-stack development student from Rio de Janeiro, Brazil.
 
-### Aluno do curso Full Stack da Recode.
-**Você pode saber mais sobre, nesse [repositório](https://github.com/arcmarcos/RecodePro2020).**
-
-**Veja também esse [repositório](https://github.com/arcmarcos/OneSiteDay).** ~~Onde tento fazer um site (ou elementos de um) quase todo dia.~~<br>
-> Projeto tá parado, mas é por um bom motivo! Estou focando meu tempo em estudar as tecnologias ensinadas no curso da Recode.
-<br>
+Currently, I'm studying vanilla Javascript in a front-end approach
 
 ---
-
+Would like to contact me? Check out my Linkedin and/or my e-mail ↓
 [![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/08marcos/) [![Gmail](https://img.shields.io/badge/-my_email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos-rj@outlook.com)
