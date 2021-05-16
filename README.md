@@ -9,15 +9,16 @@
 :earth_americas: - From Rio de Janeiro, Brazil.<br>
 :books: - Analysis and Systems Development, FAETERJ - Rio; 2021, Apr<br>
 :wrench: - Tools = {<br>
-‎‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎![html](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white) : HTML,<br>
-‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎ ‎![css](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white) : CSS,<br>
-‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎ ‎![sass](https://img.shields.io/badge/-CC6699?style=for-the-badge&logo=sass&logoColor=white) : SASS,<br>
-‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎‏‏‎ ‎![js](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) : Javascript,<br>
-‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎![node](https://img.shields.io/badge/-43853D?style=for-the-badge&logo=node.js&logoColor=white) : NodeJs,<br>
-‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎![mysql](https://img.shields.io/badge/-316192?style=for-the-badge&logo=mysql&logoColor=white) : MySQL,<br>
-‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎![linux](https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black) : Linux,<br>
-‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎![linux](https://img.shields.io/badge/-7243E3?style=for-the-badge&logo=figma&logoColor=white) : Figma,<br>
-‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎![git](https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white) : Git,<br>
+‎‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎ ‎![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎ ‎![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)<br>
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎‏‏‎ ‎![js](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎‏‏‎ ‎![js](https://img.shields.io/badge/REACT.JS-20232A?style=for-the-badge&logo=react&logoColor=white)<br>
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎![node](https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white)<br>
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎![mysql](https://img.shields.io/badge/MYSQL-316192?style=for-the-badge&logo=mysql&logoColor=white)<br>
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎![linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎![linux](https://img.shields.io/badge/FIGMA-7243E3?style=for-the-badge&logo=figma&logoColor=white)<br>
+‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎![git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)<br>
 }
 <br>
 
