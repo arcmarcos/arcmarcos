@@ -7,7 +7,7 @@
 #### About-me
 :computer: - Full-stack development student.<br>
 :earth_americas: - From Rio de Janeiro, Brazil.<br>
-:books: - Analysis and Systems Development, FAETERJ - Rio; 2021, Apr<br>
+:books: - Analysis and Systems Development, FAETERJ - Rio; 2021<br>
 :wrench: - Tools = {<br>
 ‎‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‎![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
 ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎ ‎![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
